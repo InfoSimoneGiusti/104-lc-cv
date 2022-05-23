@@ -1,0 +1,34 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    background-color: #EDEDED;
+    border-bottom: #CF8A06 2px solid ;
+}
+
+main {
+    margin-left: 15px;
+}
+
+h2 {
+    color: #CF8A06;
+}
+
+.item h3 {
+    font-style: italic;
+}
+
+.grassetto {
+    font-weight: bold;
+}
+
+hr {
+    border-color: #CF8A06;
+}
+
+footer p {
+    font-size: 12px;
+}
